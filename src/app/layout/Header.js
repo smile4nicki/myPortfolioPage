@@ -67,7 +67,7 @@ class Header extends React.Component {
                 <a className="navbar-item">Overview</a>
                 <hr className="navbar-divider" />
                 <a className="navbar-item">This Site</a>
-                <a className="navbar-item">Other things to add</a>
+                <a className="navbar-item">Northcoders</a>
               </div>
             </div>
           </div>

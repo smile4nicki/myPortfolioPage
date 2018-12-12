@@ -14,8 +14,7 @@ class Blog extends Component {
         <PageHeader color="is-info" title="Code Blog">
           The very beginning of a <strong>JavaScript</strong> programming blog,
           showing what I have been learning on my training at{" "}
-          <strong>Northcoders</strong>
-          <strong>QA consulting.</strong>
+          <strong>Northcoders</strong>,<strong> QA consulting </strong>
           and beyond
         </PageHeader>
         <br />

@@ -1,7 +1,9 @@
 import React from "react";
+// import { Link } from "react-router-dom";
 import PageContent from "./../components/PageContent";
 import BlogNav from "./shared/BlogNav";
 import BlogContent from "./shared/BlogContent";
+import BlogItem from "./BlogItem";
 
 const BlogPost = ({
   location: {
